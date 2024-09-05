@@ -9,7 +9,7 @@ celery==4.2.1
 coreapi==2.3.0
 coreschema==0.0.4
 dj-database-url==0.4.2
-Django==1.11.29
+Django==4.2.16
 django-appconf==1.0.2
 django-auth-ldap==1.2.16
 django-autocomplete-light==3.2.10
@@ -23,7 +23,7 @@ docutils==0.14
 futures==3.2.0
 gevent==1.2.1
 greenlet==0.4.12
-gunicorn==19.7.1
+gunicorn==21.2.0
 httplib2==0.10.3
 icalendar==3.11.3
 itypes==1.1.0
