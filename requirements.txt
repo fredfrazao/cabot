@@ -23,7 +23,7 @@ docutils==0.14
 futures==3.2.0
 gevent==1.2.1
 greenlet==0.4.12
-gunicorn==19.7.1
+gunicorn==23.0.0
 httplib2==0.10.3
 icalendar==3.11.3
 itypes==1.1.0
